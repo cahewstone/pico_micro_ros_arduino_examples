@@ -33,10 +33,10 @@ void loop()
   digitalWrite(LED1, HIGH);
   digitalWrite(LED2, HIGH);
   digitalWrite(LED3, HIGH);
-  delay(500);
+  delay(5000);
   digitalWrite(LED0, LOW);
   digitalWrite(LED1, LOW);
   digitalWrite(LED2, LOW);
   digitalWrite(LED3, LOW);
-  delay(500);
+  delay(5000);
 }

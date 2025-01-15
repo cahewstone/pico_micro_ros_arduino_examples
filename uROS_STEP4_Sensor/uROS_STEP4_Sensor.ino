@@ -108,5 +108,6 @@ void loop()
   Serial.printf("fl_sen is %d\n\r", g_sensor_value_fl);
   Serial.printf("l_sen  is %d\n\r", g_sensor_value_l);
   Serial.printf("VDD    is %d\n\r", g_battery_value);
+  Serial.println(100);
   delay(100);
 }

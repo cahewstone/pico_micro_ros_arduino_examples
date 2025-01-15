@@ -104,7 +104,7 @@ void setup()
 
   //motor disable
   pinMode(MOTOR_EN, OUTPUT);
-  pinMode(CW_R, OUTPUT);
+  pinMode(CW_R, OUTPUT);  
   pinMode(CW_L, OUTPUT);
   pinMode(PWM_R, OUTPUT);
   pinMode(PWM_L, OUTPUT);
