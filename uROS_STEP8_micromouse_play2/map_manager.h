@@ -1,8 +1,8 @@
 #ifndef MAP_MANAGER_H_
 #define MAP_MANAGER_H_
 
-#define MAZESIZE_X (3)  //迷路の大きさ(MAZESIZE_X * MAZESIZE_Y)迷路
-#define MAZESIZE_Y (3)  //迷路の大きさ(MAZESIZE_Y * MAZESIZE_Y)迷路
+#define MAZESIZE_X (16)  //迷路の大きさ(MAZESIZE_X * MAZESIZE_Y)迷路
+#define MAZESIZE_Y (16)  //迷路の大きさ(MAZESIZE_Y * MAZESIZE_Y)迷路
 
 #define _UNKNOWN 2  //壁があるかないか判らない状態の場合の値
 #define NOWALL 0    //壁がないばあいの値
